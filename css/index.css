@@ -46,33 +46,4 @@ body{
     /* width: 100%;
     height: auto; */
 }
-#listItem{
-}
-#listItem ul{
-    list-style: none;
-    display: grid;
-    grid-template-columns: auto auto auto auto;
-    justify-content: center;
-}
-#listItem ul li{
-}
-.item {
-    width: 250px;
-    border: transparent;
-    border-radius: 15px;
-    margin: 35px;
-    text-align: center;
-    font-size: 18px;
-    font-weight: 600;
-}
-#listItem .item:hover{
-    border: 1px solid black;
-}
-/* #listItem ul li:hover img{
-    margin: -5px;
-} */
-.item img{
-    width: 92%;
-    height: 80%;
-    margin: 10px;
-}
+

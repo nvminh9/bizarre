@@ -55,12 +55,12 @@ body{
     justify-content: center;
 }
 #listItem ul li{
+    margin: 35px;
 }
 .item {
     width: 250px;
     border: transparent;
     border-radius: 15px;
-    margin: 35px;
     text-align: center;
     font-size: 18px;
     font-weight: 600;
